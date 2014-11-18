@@ -1,4 +1,5 @@
 HvA
 ===
 
-Here I put everything for the university 
+Hier wordt alle project bestanden van Corendon opgeslagen voor het eerste jaar 
+
