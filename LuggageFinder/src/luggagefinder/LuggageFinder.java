@@ -17,6 +17,7 @@ public class LuggageFinder {
     public static void main(String[] args) {
         // TODO code application logic here
         int ss=0;
+        String wat = "skeburt";
     }
     
 }
